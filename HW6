@@ -1,0 +1,1 @@
+@Index(IfNotDefault.class) private String city;
